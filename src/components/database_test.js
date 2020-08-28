@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Data = () => (
+export const Test = () => (
   <div>
     {data.map((el) => (
       <span>{el}</span>
